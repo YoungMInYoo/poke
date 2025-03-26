@@ -1,0 +1,115 @@
+{
+  "uuid": "1494df4e-e639-4769-97d6-9ffb6ccdbcd0",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "8fbdd25a-cedb-4c82-bc6f-c129a37a03fd",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 14,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 68,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 61,
+    "totalPvNBattleVictoryCount": 7,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 6,
+      "water": 2,
+      "fighting": 1,
+      "bug": 3,
+      "grass": 1,
+      "flying": 4,
+      "ghost": 1,
+      "poison": 1,
+      "electric": 2,
+      "fire": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:krabby": 3,
+      "cobblemon:sentret": 1,
+      "cobblemon:bidoof": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:drowzee": 1,
+      "cobblemon:zubat": 2,
+      "cobblemon:roggenrola": 1,
+      "cobblemon:gastly": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:whismur": 1,
+      "cobblemon:rattata": 2,
+      "cobblemon:diglett": 1,
+      "cobblemon:electrike": 2,
+      "cobblemon:maschiff": 3,
+      "cobblemon:vivillon": 1,
+      "cobblemon:doduo": 1,
+      "cobblemon:ekans": 3,
+      "cobblemon:patrat": 2,
+      "cobblemon:spearow": 5,
+      "cobblemon:ledyba": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:fidough": 3,
+      "cobblemon:meowth": 1,
+      "cobblemon:mimejr": 1,
+      "cobblemon:nidoranm": 1,
+      "cobblemon:scraggy": 1,
+      "cobblemon:gurdurr": 1,
+      "cobblemon:lillipup": 1,
+      "cobblemon:poochyena": 1,
+      "cobblemon:purrloin": 1,
+      "cobblemon:vulpix": 1,
+      "cobblemon:slowpoke": 1,
+      "cobblemon:kingler": 1,
+      "cobblemon:metapod": 1,
+      "cobblemon:frillish": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:krabby": [
+        "female"
+      ],
+      "cobblemon:bibarel": [
+        "male"
+      ],
+      "cobblemon:crabrawler": [
+        "female"
+      ],
+      "cobblemon:paras": [
+        "female"
+      ],
+      "cobblemon:hoothoot": [
+        "female"
+      ],
+      "cobblemon:noctowl": [
+        "female"
+      ],
+      "cobblemon:pidgeotto": [
+        "female"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:galvantula": [
+        "female"
+      ],
+      "cobblemon:elekid": [
+        "female"
+      ],
+      "cobblemon:ninjask": [
+        "female"
+      ],
+      "cobblemon:growlithe": [
+        "female"
+      ],
+      "cobblemon:teddiursa": [
+        "female"
+      ]
+    }
+  }
+}

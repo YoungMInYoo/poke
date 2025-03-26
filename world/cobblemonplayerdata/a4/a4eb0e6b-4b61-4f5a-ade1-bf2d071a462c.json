@@ -1,0 +1,62 @@
+{
+  "uuid": "a4eb0e6b-4b61-4f5a-ade1-bf2d071a462c",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "3d1bc902-2493-48fc-b69c-7eb273997013",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 14,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 14,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "normal": 5,
+      "flying": 4,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:zigzagoon": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:stonjourner": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:miltank": 2,
+      "cobblemon:drifblim": 1,
+      "cobblemon:kricketot": 1,
+      "cobblemon:pichu": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:pidgey": [
+        "female",
+        "male"
+      ],
+      "cobblemon:rattata": [
+        "female"
+      ],
+      "cobblemon:combusken": [
+        "male"
+      ],
+      "cobblemon:pidgeotto": [
+        "male"
+      ],
+      "cobblemon:ivysaur": [
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "female"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ]
+    }
+  }
+}

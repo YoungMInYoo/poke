@@ -1,0 +1,34 @@
+{
+  "uuid": "abd377d0-c107-44fa-8807-0ee8634e527f",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "5ba9dcfd-0c03-4af1-9b2b-a8331828ddab",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 1,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 3,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 2,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:wiglett": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:pelipper": [
+        "female"
+      ]
+    }
+  }
+}

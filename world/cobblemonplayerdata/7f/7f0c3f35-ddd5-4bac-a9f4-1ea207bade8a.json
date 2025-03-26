@@ -1,0 +1,81 @@
+{
+  "uuid": "7f0c3f35-ddd5-4bac-a9f4-1ea207bade8a",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7a2d0790-27af-49f2-b382-676166ffbbb1",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 13,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 13,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 13,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "poison": 1,
+      "flying": 3,
+      "normal": 1,
+      "water": 3,
+      "bug": 1,
+      "psychic": 1,
+      "grass": 1,
+      "dark": 1,
+      "fire": 2,
+      "electric": 3
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:glimmet": 1,
+      "cobblemon:gligar": 1,
+      "cobblemon:charcadet": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:zubat": [
+        "female"
+      ],
+      "cobblemon:taillow": [
+        "male"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "gyarados-eye-color-purple",
+        "male",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:ninjask": [
+        "female"
+      ],
+      "cobblemon:ponyta": [
+        "male",
+        "galarian"
+      ],
+      "cobblemon:shroomish": [
+        "female"
+      ],
+      "cobblemon:breloom": [
+        "female"
+      ],
+      "cobblemon:houndoom": [
+        "male"
+      ],
+      "cobblemon:pikachu": [
+        "male"
+      ],
+      "cobblemon:ampharos": [
+        "male"
+      ],
+      "cobblemon:torchic": [
+        "male"
+      ],
+      "cobblemon:electabuzz": [
+        "male"
+      ]
+    }
+  }
+}

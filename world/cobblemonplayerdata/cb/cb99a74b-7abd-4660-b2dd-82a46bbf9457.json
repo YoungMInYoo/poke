@@ -1,0 +1,48 @@
+{
+  "uuid": "cb99a74b-7abd-4660-b2dd-82a46bbf9457",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "ab271e51-2218-4bbb-be17-6e95d639a22f",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 4,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 6,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 6,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "normal": 1,
+      "flying": 1,
+      "rock": 2,
+      "steel": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:krabby": 1,
+      "cobblemon:bellsprout": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:magikarp": [
+        "female",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:taillow": [
+        "male"
+      ],
+      "cobblemon:roggenrola": [
+        "male"
+      ],
+      "cobblemon:aron": [
+        "female"
+      ]
+    }
+  }
+}

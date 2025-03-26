@@ -1,0 +1,65 @@
+{
+  "uuid": "b3cfbd49-2822-48db-8f01-56cdedfd90c7",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "eb596ef7-ee65-41d9-b751-a6f085d00010",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 16,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 15,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "water": 1,
+      "flying": 2,
+      "normal": 3,
+      "dark": 1,
+      "fire": 1,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:sentret": 1,
+      "cobblemon:sandygast": 1,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:slowpoke": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:gastly": 1,
+      "cobblemon:houndour": 1,
+      "cobblemon:ekans": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:wingull": [
+        "male"
+      ],
+      "cobblemon:bouffalant": [
+        "female"
+      ],
+      "cobblemon:houndour": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:monferno": [
+        "male"
+      ],
+      "cobblemon:electrike": [
+        "female"
+      ],
+      "cobblemon:pidgeotto": [
+        "female"
+      ]
+    }
+  }
+}
